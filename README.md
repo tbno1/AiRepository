@@ -1,5 +1,5 @@
 # AiRepository
-This is a repository for ai,let'u enjoy it.
+This is a repository for ai,let' enjoy it.
 
 ### 上传规范 ###
 1. 请按照适当的分类上传书籍资料或者文献
